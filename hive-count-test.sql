@@ -1,1 +1,2 @@
-select count(*) from employee_tab;
+select count(*) from salary;
+select count(*) from employee;
